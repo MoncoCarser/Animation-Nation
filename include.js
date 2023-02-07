@@ -6526,6 +6526,14 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Spinning React logo',
+    pageLink: './Art/Joy/Spinner/index.html',
+    imageLink: './Art/Joy/Spinner/react_logo.png',
+    author: 'MoncoCarser',
+    githubLink: 'https://github.com/moncocarser'
+  },
+
 ];
 
 // +--------------------------------------------------------------------------------+
